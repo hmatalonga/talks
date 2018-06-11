@@ -18,7 +18,7 @@
 
 # Hugo Matalonga
 
-Full Stack Developer
+Full-stack Developer
 
 [http://hmatalonga.com](http://hmatalonga.com)
 
