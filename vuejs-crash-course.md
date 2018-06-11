@@ -179,7 +179,6 @@ Vue.component('todo-item', {
   <todo-item></todo-item>
 </ol>
 ```
-Don't use `</todo-item>`! It won't render the DOM elements properly sometimes.
 
 ---
 
